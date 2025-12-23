@@ -1,4 +1,5 @@
-📑 Conteúdo do Repositório
+📑 Conteúdo do Repositório.
+
 Os programas estão organizados por temas fundamentais, cobrindo todo o progresso na linguagem C:
 
 1. 🏗️ Estruturas de Seleção e Repetição
